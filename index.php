@@ -10,7 +10,7 @@
 
 
      <div class="form">
-     <form action="jurosteste.php" method="post">
+     <form action="index.php" method="post">
      <table>
      <tr>
      <td>Insira valor final desejado:</td><td><input type="number" name="valor_final"  ></input></td>
