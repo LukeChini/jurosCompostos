@@ -13,16 +13,16 @@
      <form action="jurosteste.php" method="post">
      <table>
      <tr>
-     <td>Insira valor final desejado:</td><td><input type="number" name="valor_final" value="1000000" ></input></td>
+     <td>Insira valor final desejado:</td><td><input type="number" name="valor_final"  ></input></td>
      </tr>
      <tr>
-     <td>Insira idade inicial:</td><td><input type="number" name="idade_inicial" value="25"></input></td>
+     <td>Insira idade inicial:</td><td><input type="number" name="idade_inicial" ></input></td>
      </tr>
      <tr>
-     <td>Insira idade final:</td><td><input type="number" name="idade_final" value="65" ></input></td>
+     <td>Insira idade final:</td><td><input type="number" name="idade_final" ></input></td>
      </tr>
      <tr>
-     <td>Taxa de juros ao ano (%):</td><td><input type="number" name="taxa_ano" min='1' value="6"></input><td>
+     <td>Taxa de juros ao ano (%):</td><td><input type="number" name="taxa_ano" min='1' ></input><td>
      <input type="submit" name="enviar" value="Calcular">
      </tr>
      </table>
